@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=CameraSoundDisable
+name=Disable Camera Sounds
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Junohea
+description=This module will remove the sound files associated with taking pictures, videos, and screenshots
 template=3
